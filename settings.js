@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "𝙱𝙾𝚃 𝚅.1" //namabot kalian
 global.ownername= "𝒏𝒊𝒄𝒉𝒖 𝒗𝒅𝒓" //nama kalian
-global.myweb ="https://google.com/" //bebas asal jan hapus
+global.myweb ="https://chat.whatsapp.com/CZ5k2wN4HslD62oiLth8TB" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/lltrker" //bebas asal jan hapus
 global.github = "https://Nichuvdr.github.io/" //bebas
 global.email = "pnichu786@gmail.com" //bebas
