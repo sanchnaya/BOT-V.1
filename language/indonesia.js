@@ -85,10 +85,10 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
-Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+	return`Hai User ${pushname} 👋 powered By BOT V.1 , 
+ Beta Multi-Device Whatsapp Bot
+ 24 Hour power on bot....
+ Sport replay with cmd....
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -847,14 +847,14 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/Nichuvdr/BOT-V.1
-Recode : https://youtube.com/c/lltracker
+Recode : https://youtube.com/c/lltrcker
 `
 }
 exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
 
-Hai kak ☺️ 
+Hai User ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
 Berapapun donasi kalian akan sangat berarti 👍
@@ -1454,15 +1454,7 @@ return`╭─❒ 「 Random Cewe 」
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ MD BOT
 ╰❒ And All Support
 `
 }
