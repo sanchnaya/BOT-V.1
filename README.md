@@ -84,15 +84,15 @@ global.sessionName = 'session'
 ```
 
 ## ```HOW TO DEPLOY```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nichuvdr/BOT-V.1/)
 
 
 ----------
 
 
 <p align="center">
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://youtube.com/c/lltrker"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
+- [Join Oficial Whatsapp Group](https://chat.whatsapp.com/CZ5k2wN4HslD62oiLth8TB)
