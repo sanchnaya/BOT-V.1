@@ -25,7 +25,7 @@
 ---
 
 ## Information
-> BOT-V.1 is a multi device whatsapp botadalah bot , created by Nichu vdr
+> 🟣BOT-V.1 is a multi device whatsapp bot🔵 , created by Nichu vdr
 > 24/7 hour supporting powerfull heroku bot
 
 # Requirements
@@ -89,6 +89,7 @@ global.sessionName = 'session'
 
 ----------
 
+
 <p align="center">
   <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
@@ -101,23 +102,3 @@ global.sessionName = 'session'
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
-
-# Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
----|---
-[Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
-Owner Hisoka-Morou | Constributor |
-<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
-[Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
-Constributor | For Help |
-<a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
-[Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
-For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
-[Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |
-
