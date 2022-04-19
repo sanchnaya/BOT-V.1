@@ -26,7 +26,7 @@
 
 ## Information
 > 🟣BOT-V.1 is a multi device whatsapp bot🔵 , created by Nichu vdr
-> 24/7 hour supporting powerfull heroku bot
+> 24/7 hour supporting powerfull heroku bot🟢
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -93,12 +93,6 @@ global.sessionName = 'session'
 <p align="center">
   <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
-
-## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
