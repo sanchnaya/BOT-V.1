@@ -43,6 +43,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done,',
+    admin: 'This command can only be used by admins!', botAdmin: 'This command can only be used when the bot becomes an admin!', owner: 'This command can only be used by the owner!', group: 'This command can only be used in groups!', private: 'This command can only be used in private !', bot: 'Bot Number User Only Feature', errtoimg: 'Sorry Not Support Gif Sticker At This Time!', wait: '⏳ In Process',
     lockCmd: 'Feature Not Enabled By Owner!', example1: 'Welcome @user to the @subject group. Don't forget to read @desc\n\nNote :\n1 Rules. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @date (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)' }
 
 let file = require.resolve(__filename)
