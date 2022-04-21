@@ -687,88 +687,13 @@ exports.private = () =>{ return`Feature can only be used in private chat` } expo
 ╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
 ╰❒ And All Support
     `
 }
 
 exports.rules = (prefix) => {
     return `
-*── 「 RULES AND FAQ 」 ──*
-
-1. Don't Spam Here: *❎ WARN/SOFT BLOCK*
-
-2. Jangan telepon bot. ☎️
-Sanksi: *❎ SOFT BLOCK*
-
-3. Jangan mengeksploitasi bot.😖
-Sanksi: *PERMANENT BLOCK*
-
-🗯️ Bot tidak atau lambat merespon ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
-
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
-
-🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
-
-🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
-
-🗯️ Kak, kok syaa chat owner tidak direspon?
-➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
-
-
-Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
-
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
-
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
-😖🙏
-`
-}
-exports.welcome = () =>{
-	return`Welcome Bots world
-	
-╭ 𝖭𝖺𝗆𝖺 :
-├ 𝖴𝗆𝗎𝗋 :
-├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
-├ 𝖠𝗌𝗄𝗈𝗍 :
-╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
-}
-exports.leave = () =>{
-	return `goodbye!`
-}
-exports.source = () =>{
-return`*------「 SOURCE CODE 」 ------*
-
-Base : https://github.com/Nichuvdr/BOT-V.1
-Recode : https://youtube.com/c/lltrcker
-`
-}
-exports.tos = (ownernomer) => {
-    return `
-*-------「 DONATE 」 -------*
-
-Hai User ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
-Berapapun donasi kalian akan sangat berarti 👍
-
-Thanks!
-
-Contact person Owner:
-wa.me/${ownernomer}
-
-    `
+*── RULES AND FAQ ──* 1. Don't Spam Here: *❎ WARN/SOFT BLOCK* 2. Don't call bots. ️ Sanctions: *❎ SOFT BLOCK* 3. Don't exploit bots.😖 Sanctions: *PERMANENT BLOCK* ️ Bot not or slow to respond ? ️ May be affected by network, signal, banned by Whatsapp and some random. Keep obeying the rules‼️ ️ Where can I get the script from this bot? ️ This script is still private and has never been traded, be wise in knowing fraudsters. ️ Can I add to the group? ️ The bot is temporarily in free to add status. ️ What's the prefix? ️ This bot uses multi prefix. That means you can use the prefix #, . , and other reasonable prefixes. ️ Sis, why is the chat owner not responding? ️ Owner only responds to questions about bots and error problems, not for acquaintances or begging for scripts. If you understand the rules, please type *${prefix}allmenu* to get started! ️ All Alphabot policies and conditions are held by the owner and all policy changes, at any time the owner has the right to revoke, block users (*﹏*) Thank you very much! For you, friendly users and some people who also helped in the BOT V.1 creation project 🙏 ` } exports.welcome = () =>{ return`Welcome @user  𝗋𝗎𝗅𝖾𝗌 k ~` } exports.leave = () =>{ return `goodbye!` } exports.source = () =>{ return`*------「 SOURCE CODE ------* Base : https://github.com/Nichuvdr/BOT-V.1 Recode : https://youtube.com/c/lltrcker ` } exports.tos = (ownernumber) => { return ` *-------「 DONATE -------* Hi Users ️ You can support me to keep this bot up to date by donating Any amount of your donation will mean a lot 👍 Thanks! Contact person Owner: wa.me/${owner number} `
 }
 
 exports.info = (prefix) =>{
