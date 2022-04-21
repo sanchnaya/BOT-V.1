@@ -20,8 +20,8 @@ global.available = false //status online (online)
 // Other
 global.botname = "𝙱𝙾𝚃 𝚅.1" //namabot kalian
 global.ownername= "𝒏𝒊𝒄𝒉𝒖 𝒗𝒅𝒓" //nama kalian
-global.myweb ="https://chat.whatsapp.com/CZ5k2wN4HslD62oiLth8TB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/lltrker" //bebas asal jan hapus
+global.myweb ="https://google.com/" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/alltracker" //bebas asal jan hapus
 global.github = "https://Nichuvdr.github.io/" //bebas
 global.email = "pnichu786@gmail.com" //bebas
 global.region = "India" //bebas
@@ -42,9 +42,18 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done,',
-    admin: 'This command can only be used by admins!', botAdmin: 'This command can only be used when the bot becomes an admin!', owner: 'This command can only be used by the owner!', group: 'This command can only be used in groups!', private: 'This command can only be used in private !', bot: 'Bot Number User Only Feature', errtoimg: 'Sorry Not Support Gif Sticker At This Time!', wait: '⏳ In Process',
-    lockCmd: 'Feature Not Enabled By Owner!', example1: 'Welcome @user to the @subject group. Don't forget to read @desc\n\nNote :\n1 Rules. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @date (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)' }
+    sukses: '🤗Done, Oke Desu~',
+    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
+    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
+    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
+    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
+    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
+	bot: 'Fitur Khusus Pengguna Nomor Bot',
+    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
+    wait: '⏳ Sedang Di Proses',
+	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
+	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+}
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
